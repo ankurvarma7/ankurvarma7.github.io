@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ankurvarma-portfolio</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on ankurvarma-portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;AI &amp;amp; Software Engineer | CU Boulder &amp;lsquo;26&lt;/strong&gt;&lt;br&gt;&#xA;I’m a Computer Science student at the &lt;strong&gt;University of Colorado Boulder&lt;/strong&gt; graduating in &lt;strong&gt;May 2026&lt;/strong&gt;, specializing in &lt;strong&gt;Artificial Intelligence&lt;/strong&gt; and &lt;strong&gt;Software Engineering&lt;/strong&gt;. My research dives into &lt;strong&gt;probabilistic programming&lt;/strong&gt; and &lt;strong&gt;reachability analysis&lt;/strong&gt;, hybrid dynamical systems. I love turning theoretical concepts into real-world solutions—whether it’s deploying ML models or building scalable software.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;What I Bring to the Table&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🤖 &lt;strong&gt;AI/ML&lt;/strong&gt;: Hands-on experience with &lt;strong&gt;NLP, computer vision, and probabilistic models&lt;/strong&gt; (PyTorch/TensorFlow).&lt;/li&gt;&#xA;&lt;li&gt;🌐 &lt;strong&gt;Full-Stack Development&lt;/strong&gt;: Built apps using &lt;strong&gt;Flask, Java, Rust&lt;/strong&gt;, and cloud platforms (&lt;strong&gt;AWS/GCP&lt;/strong&gt;).&lt;/li&gt;&#xA;&lt;li&gt;🛠️ &lt;strong&gt;Engineering Rigor&lt;/strong&gt;: Advocate for &lt;strong&gt;clean code, CI/CD pipelines, and Agile workflows&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Beyond the Screen&lt;/strong&gt;:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Education</title>
+      <link>http://localhost:1313/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/education/</guid>
+      <description>&lt;h3 id=&#34;university-of-colorado-boulder&#34;&gt;&lt;strong&gt;University of Colorado, Boulder&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Master of Science in Computer Science&lt;/strong&gt; &lt;em&gt;(Expected May 2026)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Perfect 4.0 GPA&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Related Coursework&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Deep Learning&lt;/em&gt;: Designed transformer architectures for NLP applications&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Machine Learning&lt;/em&gt;: Developed multimodal models combining BERT, TF-IDF, and prosodic features to predict interview ratings&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Geospatial ML&lt;/em&gt;: Developed CNN models for satellite image analysis&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Algorithm Design&lt;/em&gt;: Researched approximation algorithms for NP-hard problems&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Software Engineering&lt;/em&gt;: Built microservices using Docker and Kubernetes&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Research Assistant&lt;/strong&gt;: Programming Language Verification Lab advised by &lt;a href=&#34;https://home.cs.colorado.edu/~srirams/&#34;&gt;Sriram Sankaranarayan&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;indian-institute-of-technology-iit-dhanbad&#34;&gt;&lt;strong&gt;Indian Institute of Technology (IIT), Dhanbad&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Bachelor of Technology with Honors&lt;/strong&gt; &lt;em&gt;(Rank 1 - Gold Medalist)&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Experience</title>
+      <link>http://localhost:1313/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/</guid>
+      <description>&lt;h3 id=&#34;coal-india-limited&#34;&gt;Coal India Limited&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Engineering Manager&lt;/em&gt;&lt;br&gt;&#xA;Led 80+ engineers and managed the maintenance of 1,000+ mining machines across 80k sq. km.&lt;/p&gt;&#xA;&lt;h3 id=&#34;projects&#34;&gt;Projects&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Predictive maintenance using regression trees&lt;/li&gt;&#xA;&lt;li&gt;Spares optimization saving $50k+ annually&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h3 id=&#34;resume-analyzer&#34;&gt;Resume Analyzer&lt;/h3&gt;&#xA;&lt;p&gt;AI-powered resume-job matcher using BERT.&lt;/p&gt;&#xA;&lt;h3 id=&#34;geoclimb&#34;&gt;GeoClimb&lt;/h3&gt;&#xA;&lt;p&gt;ML-based climbing route prediction using DEM + Sentinel-2.&lt;/p&gt;&#xA;&lt;h3 id=&#34;maintenance-optimizer&#34;&gt;Maintenance Optimizer&lt;/h3&gt;&#xA;&lt;p&gt;Spare planning for 1,000+ machines, boosting uptime by 16.4%.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>&lt;h3 id=&#34;1-using-bayesian-inference-and-flowpipe-construction-to-bound-predictions-of-biogas-production-at-wastewater-treatment-plants&#34;&gt;1. Using Bayesian Inference and Flowpipe Construction to Bound Predictions of Biogas Production at Wastewater Treatment Plants&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;Advisor: &lt;a href=&#34;https://home.cs.colorado.edu/~srirams/&#34;&gt;Sriram Sankaranarayanan&lt;/a&gt;&lt;/em&gt; | &lt;em&gt;Feb 2025 - Jul 2025&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;h4 id=&#34;overview&#34;&gt;Overview&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developed a &lt;strong&gt;formal verification framework&lt;/strong&gt; to predict guaranteed bounds on biogas production in wastewater treatment plants (WWTPs) under uncertainty. Combines:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bayesian inference&lt;/strong&gt; (probabilistic programming) to estimate uncertain parameters from noisy data&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Reachability analysis&lt;/strong&gt; (formal methods) to propagate uncertainties through differential equations&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Key Achievements:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;✔ &lt;strong&gt;100% ground-truth containment&lt;/strong&gt; in predicted bounds at 99% confidence&lt;/li&gt;&#xA;&lt;li&gt;✔ &lt;strong&gt;40× faster&lt;/strong&gt; than standard sampling approaches (3s vs 114s for 5-day predictions)&lt;/li&gt;&#xA;&lt;li&gt;✔ Implemented in Julia using Turing.jl for inference and custom reachability solver&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Pseudocode of core approach&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;predict_bounds&lt;/span&gt;(data, γ):&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#75715e&#34;&gt;# 1. Bayesian parameter estimation&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    posterior &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; MCMC(model, data, samples&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;25000&lt;/span&gt;)  &#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    θ_lo, θ_hi &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; credible_intervals(posterior, γ)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#75715e&#34;&gt;# 2. Flowpipe construction&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    bounds &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; reachability(ODE_model, θ_lo, θ_hi) &#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; bounds&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;p&gt;📄 &lt;a href=&#34;http://localhost:1313/resume.pdf&#34;&gt;Download my resume (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;My resume highlights my academic background, work at Coal India, and technical projects in AI, ML, and geospatial systems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Skills</title>
+      <link>http://localhost:1313/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/skills/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Languages&lt;/strong&gt;: Python, Java, SQL, Rust&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Libraries&lt;/strong&gt;: PyTorch, HuggingFace, spaCy, TorchGeo&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tools&lt;/strong&gt;: Docker, Git, GCP, Postgres&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Domains&lt;/strong&gt;: Geospatial ML, NLP, Predictive Maintenance&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
