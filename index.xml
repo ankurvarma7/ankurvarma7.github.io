@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ankurvarma-portfolio</title><link>https://ankurvarma7.github.io/</link><description>Recent content on ankurvarma-portfolio</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://ankurvarma7.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://ankurvarma7.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ankurvarma7.github.io/about/</guid><description>&lt;p>&lt;strong>AI &amp;amp; Software Engineer | CU Boulder &amp;lsquo;26&lt;/strong>&lt;br>
+I’m a Computer Science student at the &lt;strong>University of Colorado Boulder&lt;/strong> graduating in &lt;strong>May 2026&lt;/strong>, specializing in &lt;strong>Artificial Intelligence&lt;/strong> and &lt;strong>Software Engineering&lt;/strong>. My research dives into &lt;strong>probabilistic programming&lt;/strong> and &lt;strong>reachability analysis&lt;/strong>, hybrid dynamical systems. I love turning theoretical concepts into real-world solutions—whether it’s deploying ML models or building scalable software.&lt;/p>
+&lt;p>&lt;strong>What I Bring to the Table&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>🤖 &lt;strong>AI/ML&lt;/strong>: Hands-on experience with &lt;strong>NLP, computer vision, and probabilistic models&lt;/strong> (PyTorch/TensorFlow).&lt;/li>
+&lt;li>🌐 &lt;strong>Full-Stack Development&lt;/strong>: Built apps using &lt;strong>Flask, Java, Rust&lt;/strong>, and cloud platforms (&lt;strong>AWS/GCP&lt;/strong>).&lt;/li>
+&lt;li>🛠️ &lt;strong>Engineering Rigor&lt;/strong>: Advocate for &lt;strong>clean code, CI/CD pipelines, and Agile workflows&lt;/strong>.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Beyond the Screen&lt;/strong>:&lt;/p></description></item><item><title>Education</title><link>https://ankurvarma7.github.io/education/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ankurvarma7.github.io/education/</guid><description>&lt;h3 id="university-of-colorado-boulder">&lt;strong>University of Colorado, Boulder&lt;/strong>&lt;/h3>
+&lt;p>&lt;strong>Master of Science in Computer Science&lt;/strong> &lt;em>(Expected May 2026)&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Perfect 4.0 GPA&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Related Coursework&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;em>Deep Learning&lt;/em>: Designed transformer architectures for NLP applications&lt;/li>
+&lt;li>&lt;em>Machine Learning&lt;/em>: Developed multimodal models combining BERT, TF-IDF, and prosodic features to predict interview ratings&lt;/li>
+&lt;li>&lt;em>Geospatial ML&lt;/em>: Developed CNN models for satellite image analysis&lt;/li>
+&lt;li>&lt;em>Algorithm Design&lt;/em>: Researched approximation algorithms for NP-hard problems&lt;/li>
+&lt;li>&lt;em>Software Engineering&lt;/em>: Built microservices using Docker and Kubernetes&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Research Assistant&lt;/strong>: Programming Language Verification Lab advised by &lt;a href="https://home.cs.colorado.edu/~srirams/">Sriram Sankaranarayan&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="indian-institute-of-technology-iit-dhanbad">&lt;strong>Indian Institute of Technology (IIT), Dhanbad&lt;/strong>&lt;/h3>
+&lt;p>&lt;strong>Bachelor of Technology with Honors&lt;/strong> &lt;em>(Rank 1 - Gold Medalist)&lt;/em>&lt;/p></description></item><item><title>Experience</title><link>https://ankurvarma7.github.io/experience/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ankurvarma7.github.io/experience/</guid><description>&lt;h3 id="coal-india-limited">Coal India Limited&lt;/h3>
+&lt;p>&lt;em>Engineering Manager&lt;/em>&lt;br>
+Led 80+ engineers and managed the maintenance of 1,000+ mining machines across 80k sq. km.&lt;/p>
+&lt;h3 id="projects">Projects&lt;/h3>
+&lt;ul>
+&lt;li>Predictive maintenance using regression trees&lt;/li>
+&lt;li>Spares optimization saving $50k+ annually&lt;/li>
+&lt;/ul></description></item><item><title>Projects</title><link>https://ankurvarma7.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ankurvarma7.github.io/projects/</guid><description>&lt;h3 id="resume-analyzer">Resume Analyzer&lt;/h3>
+&lt;p>AI-powered resume-job matcher using BERT.&lt;/p>
+&lt;h3 id="geoclimb">GeoClimb&lt;/h3>
+&lt;p>ML-based climbing route prediction using DEM + Sentinel-2.&lt;/p>
+&lt;h3 id="maintenance-optimizer">Maintenance Optimizer&lt;/h3>
+&lt;p>Spare planning for 1,000+ machines, boosting uptime by 16.4%.&lt;/p></description></item><item><title>Research</title><link>https://ankurvarma7.github.io/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ankurvarma7.github.io/research/</guid><description>&lt;h3 id="1-using-bayesian-inference-and-flowpipe-construction-to-bound-predictions-of-biogas-production-at-wastewater-treatment-plants">1. Using Bayesian Inference and Flowpipe Construction to Bound Predictions of Biogas Production at Wastewater Treatment Plants&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;em>Advisor: &lt;a href="https://home.cs.colorado.edu/~srirams/">Sriram Sankaranarayanan&lt;/a>&lt;/em> | &lt;em>Feb 2025 - Jul 2025&lt;/em>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;h4 id="overview">Overview&lt;/h4>
+&lt;ul>
+&lt;li>Developed a &lt;strong>formal verification framework&lt;/strong> to predict guaranteed bounds on biogas production in wastewater treatment plants (WWTPs) under uncertainty. Combines:
+&lt;ul>
+&lt;li>&lt;strong>Bayesian inference&lt;/strong> (probabilistic programming) to estimate uncertain parameters from noisy data&lt;/li>
+&lt;li>&lt;strong>Reachability analysis&lt;/strong> (formal methods) to propagate uncertainties through differential equations&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Key Achievements:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>✔ &lt;strong>100% ground-truth containment&lt;/strong> in predicted bounds at 99% confidence&lt;/li>
+&lt;li>✔ &lt;strong>40× faster&lt;/strong> than standard sampling approaches (3s vs 114s for 5-day predictions)&lt;/li>
+&lt;li>✔ Implemented in Julia using Turing.jl for inference and custom reachability solver&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># Pseudocode of core approach&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">predict_bounds&lt;/span>(data, γ):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e"># 1. Bayesian parameter estimation&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> posterior &lt;span style="color:#f92672">=&lt;/span> MCMC(model, data, samples&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#ae81ff">25000&lt;/span>) 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> θ_lo, θ_hi &lt;span style="color:#f92672">=&lt;/span> credible_intervals(posterior, γ)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e"># 2. Flowpipe construction&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> bounds &lt;span style="color:#f92672">=&lt;/span> reachability(ODE_model, θ_lo, θ_hi) 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> bounds
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Resume</title><link>https://ankurvarma7.github.io/resume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ankurvarma7.github.io/resume/</guid><description>&lt;p>📄 &lt;a href="https://ankurvarma7.github.io/resume.pdf">Download my resume (PDF)&lt;/a>&lt;/p>
+&lt;p>My resume highlights my academic background, work at Coal India, and technical projects in AI, ML, and geospatial systems.&lt;/p></description></item><item><title>Skills</title><link>https://ankurvarma7.github.io/skills/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ankurvarma7.github.io/skills/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Languages&lt;/strong>: Python, Java, SQL, Rust&lt;/li>
+&lt;li>&lt;strong>Libraries&lt;/strong>: PyTorch, HuggingFace, spaCy, TorchGeo&lt;/li>
+&lt;li>&lt;strong>Tools&lt;/strong>: Docker, Git, GCP, Postgres&lt;/li>
+&lt;li>&lt;strong>Domains&lt;/strong>: Geospatial ML, NLP, Predictive Maintenance&lt;/li>
+&lt;/ul></description></item></channel></rss>
