@@ -3,14 +3,17 @@ title: "About"
 draft: false
 ---
 
-**AI & Software Engineer | CU Boulder '26**  
-I’m a Computer Science student at the **University of Colorado Boulder** graduating in **May 2026**, specializing in **Artificial Intelligence** and **Software Engineering**. My research dives into **probabilistic programming** and **reachability analysis**, hybrid dynamical systems. I love turning theoretical concepts into real-world solutions—whether it’s deploying ML models or building scalable software.  
+**AI Engineer | Software Engineer | Backend Developer — CU Boulder '26**
 
-**What I Bring to the Table**:  
-- 🤖 **AI/ML**: Hands-on experience with **NLP, computer vision, and probabilistic models** (PyTorch/TensorFlow).  
-- 🌐 **Full-Stack Development**: Built apps using **Flask, Java, Rust**, and cloud platforms (**AWS/GCP**).  
-- 🛠️ **Engineering Rigor**: Advocate for **clean code, CI/CD pipelines, and Agile workflows**.  
+I'm a Computer Science graduate student at the **University of Colorado Boulder** (graduating **May 2026**), specializing in **Artificial Intelligence** and **Software Engineering**. My work spans production LLM systems, async backend pipelines, and formal verification research on hybrid dynamical systems. I care deeply about building things that are correct, fast, and maintainable.
 
-**Beyond the Screen**:  
-- 🏢 **Collaborator**: Thrive in hackathons, research labs, and team-driven environments.  
-- 🏋️ **Athlete & Drummer**: Fueled by workouts, sports, and dreams of drumming on a world stage!  
+**What I Bring to the Table**
+
+- **LLM Engineering**: Designed and shipped multi-stage LLM orchestration pipelines using **Gemini 2.5 Flash**, **LangGraph**, and **MCP** — with real metrics: 98%+ F1, 90% cost reduction, 500% throughput gains.
+- **Backend & Async Systems**: Built production Python services using **asyncio**, **Semaphores**, **Pydantic v2**, and deterministic hashing (**UUID v5**, **SHA-256**) for data integrity across parallelized workloads.
+- **AI/ML Research**: Hands-on with **NLP**, **computer vision**, **probabilistic programming**, and **reachability analysis** — from PyTorch model training to Julia-based formal verification.
+- **Software Engineering**: Advocate for clean architecture, CI/CD, microservices (Docker/Kubernetes), and Agile workflows.
+
+**Beyond the Screen**
+
+Powerlifter, drummer, and occasional horse rider. I thrive in high-ownership environments where the work actually ships.

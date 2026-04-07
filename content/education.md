@@ -12,6 +12,7 @@ draft: false
   - *Geospatial ML*: Developed CNN models for satellite image analysis
   - *Algorithm Design*: Researched approximation algorithms for NP-hard problems
   - *Software Engineering*: Built microservices using Docker and Kubernetes
+- **Lloyd Botway Award**: In recognition of outstanding academics, teaching, research, and service by a research-based master's student
 - **Research Assistant**: Programming Language Verification Lab advised by [Sriram Sankaranarayan](https://home.cs.colorado.edu/~srirams/)
 
 ### **Indian Institute of Technology (IIT), Dhanbad**  
